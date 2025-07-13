@@ -1,4 +1,3 @@
-# Global-Economic-Indicators-2010-2025---World-bank
 # 🌍 Worldwide Travel Cities Dataset (Ratings and Climate)
 
 This dataset includes curated information on 560 global cities, combining travel ratings, thematic tags (like beaches, culture, cuisine), budget levels, and climate data in a structured format — ideal for travel recommendation engines, statistical analysis, or machine learning projects.
